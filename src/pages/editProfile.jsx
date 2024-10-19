@@ -1,10 +1,10 @@
 import React from "react";
 import Navbar from "../components/Navbar";
-export default function home() {
+export default function EditProfile() {
   return (
     <div>
       <Navbar />
-      <h2>Home</h2>
+      <h2>edit Profile</h2>
     </div>
   );
 }
