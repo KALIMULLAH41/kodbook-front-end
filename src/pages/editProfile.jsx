@@ -4,6 +4,7 @@ export default function EditProfile() {
   return (
     <div>
       <Navbar />
+
       <h2>edit Profile</h2>
     </div>
   );
